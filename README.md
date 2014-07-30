@@ -11,7 +11,6 @@ Dima
 Igor
 Artem
 Anton
-Sasha
 
 #When will it end
 Never... wich will be 1 month from now
